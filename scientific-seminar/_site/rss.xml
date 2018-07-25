@@ -3,10 +3,10 @@
 <channel>
         <title>Jekyll Bootstrap-3</title>
         <description>Jekyll Bootstrap-3 - Name Lastname</description>
-        <link>http://username.github.io</link>
-        <link>http://username.github.io</link>
-        <lastBuildDate>2018-07-25T21:44:25+03:00</lastBuildDate>
-        <pubDate>2018-07-25T21:44:25+03:00</pubDate>
+        <link>http://evgenii-egorov.github.io/scientific-seminar</link>
+        <link>http://evgenii-egorov.github.io/scientific-seminar</link>
+        <lastBuildDate>2018-07-25T21:52:23+03:00</lastBuildDate>
+        <pubDate>2018-07-25T21:52:23+03:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -427,8 +427,8 @@ As noted, our main programming constraint is the fact that our API is limited to
 &lt;p&gt;Please take a look at &lt;a href=&quot;&quot;&gt;&lt;/a&gt; 
 or jump right into &lt;a href=&quot;&quot;&gt;Usage&lt;/a&gt; if you’d like.&lt;/p&gt;
 </description>
-                <link>http://username.github.io/lessons/2011/12/29/jekyll-introduction</link>
-                <guid>http://username.github.io/lessons/2011/12/29/jekyll-introduction</guid>
+                <link>http://evgenii-egorov.github.io/scientific-seminar/lessons/2011/12/29/jekyll-introduction</link>
+                <guid>http://evgenii-egorov.github.io/scientific-seminar/lessons/2011/12/29/jekyll-introduction</guid>
                 <pubDate>2011-12-29T00:00:00+04:00</pubDate>
         </item>
 
