@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Evgenii Egorov"
   avatar           : "profile.png"
-  bio              : "Novosibirsk -> Moscow -> ???"
-  location         : "Moscow/Amsterdam"
+  bio              : "Novosibirsk -> Moscow -> Amsterdam"
+  location         : "Amsterdam"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ru/citations?user=LwVVunEAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : #"https://github.com/evgenii-egorov"
   google_plus      :
   keybase          :
   instagram        :
