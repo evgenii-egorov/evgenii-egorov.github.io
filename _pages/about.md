@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am working in the field of deep learning and machine learning.
+I am working in the field of machine learning in the [AMLab](http://amlab.science.uva.nl), University of Amsterdam. My supervisiors are Max Welling and Roberto Bondesan. I did a bit in the interplay between deep generative models and MCMC methods. My current research is focused on Quantum Error Correction. I’m interested in the following research areas and methods:
 
-My current research focuses on approximate probabilistic inference. I’m interested in the following research areas and methods:
+- Quantum Error Correction
+- QFT on lattice
+- Geometric measure theory
+- MCMC, PDE and Symmetries
 
-- Geometric measure theory, MCMC, PDE and Symmetries.
-- Information geometry, variational inference, (Bayesian) deep learning.
 
 See my [publications](https://scholar.google.ru/citations?user=LwVVunEAAAAJ). I am happy to collaborate or give a talk. 
 
 
-Also, I did apply projects for Sberbank, Huawei and Gazprom. I can do this for your company too!  
+Also, I did applied/research projects for Huawei and other large companies, including 5G simulation and petrol related PDE solving.
+I can do this for your company too!  
