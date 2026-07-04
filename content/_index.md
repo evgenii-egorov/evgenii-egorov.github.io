@@ -22,7 +22,7 @@ I expect to complete my PhD in November 2026. In 2025 I worked with Qualcomm AI 
 
 {{% hint warning %}}
 **Research direction**
-The short version of my research program is: structure-aware machine learning for quantum systems, connecting probabilistic inference, efficient architectures, and quantum inspired algorithms.
+My research program is structure-aware machine learning for scientific systems, with a current focus on quantum systems. I connect probabilistic inference, efficient neural architectures, tensor-network ideas, and quantum-inspired algorithms.
 {{% /hint %}}
 
 {{% hint info %}}
