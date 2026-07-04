@@ -5,7 +5,7 @@ type: docs
 
 # About me
 
-<img src="me.jpg" style="width:260px; height: 260px; border-radius: 15%; object-fit: cover; float: right; padding-right: 0px ">
+<img src="/images/me.jpg" style="width:260px; height: 260px; border-radius: 15%; object-fit: cover; float: right; padding-right: 0px ">
 
 I am a PhD candidate in Informatics at the [University of Amsterdam](https://www.uva.nl/) working with [Max Welling](https://scholar.google.com/citations?user=8200InoAAAAJ). My research is on structure-aware machine learning for scientific systems.
 
@@ -25,7 +25,7 @@ The short version of my research program is: structure-aware machine learning fo
 
 {{% hint info %}}
 **Hot off The Press**
-<a href="https://x.com/eeevgen/status/1971496707587489840" style="float: right; width: 300px; max-width: 46%; margin: 0.1rem 0 0.6rem 1rem;"><img src="myosotis-poster.jpg" alt="Myosotis SPIGM workshop poster" style="width: 100%; border-radius: 6px;"></a>
+<a href="https://x.com/eeevgen/status/1971496707587489840" style="float: right; width: 300px; max-width: 46%; margin: 0.1rem 0 0.6rem 1rem;"><img src="/images/myosotis-poster.jpg" alt="Myosotis SPIGM workshop poster" style="width: 100%; border-radius: 6px;"></a>
 
 An interlude about structure computation, SSM, and attention: [Myosotis](https://arxiv.org/abs/2509.20503). I hope to tell more in this line of work later; see the [SPIGM workshop poster](https://x.com/eeevgen/status/1971496707587489840).
 

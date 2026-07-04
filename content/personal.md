@@ -12,13 +12,13 @@ type: docs
     <ul style="margin: 0; flex: 1 1 18rem;">
       <li><a href="https://akuzina.github.io">Anna Kuzina</a>, my wife.</li>
     </ul>
-    <img src="/anna.jpg" alt="Anna Kuzina" style="width: 165px; height: 130px; max-width: 100%; border-radius: 6px; object-fit: cover; object-position: center top;">
+    <img src="/images/anna.jpg" alt="Anna Kuzina" style="width: 165px; height: 130px; max-width: 100%; border-radius: 6px; object-fit: cover; object-position: center top;">
   </div>
   <div style="display: flex; gap: 1.25rem; align-items: center; justify-content: space-between; flex-wrap: wrap;">
     <ul style="margin: 0; flex: 1 1 18rem;">
       <li><a href="https://www.linkedin.com/in/bogdanegorov/">Bogdan Egorov</a>, my brother, and <a href="https://www.linkedin.com/in/darya-e-61092a166/">Daria Egorova</a>, my sister.</li>
     </ul>
-    <img src="/bogdan-daria.jpg" alt="Bogdan Egorov and Daria Egorova" style="width: 165px; height: 130px; max-width: 100%; border-radius: 6px; object-fit: cover;">
+    <img src="/images/bogdan-daria.jpg" alt="Bogdan Egorov and Daria Egorova" style="width: 165px; height: 130px; max-width: 100%; border-radius: 6px; object-fit: cover;">
   </div>
 </div>
 

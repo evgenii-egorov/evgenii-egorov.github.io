@@ -5,13 +5,13 @@
  &lt;ul style="margin: 0; flex: 1 1 18rem;"&gt;
  &lt;li&gt;&lt;a href="https://akuzina.github.io"&gt;Anna Kuzina&lt;/a&gt;, my wife.&lt;/li&gt;
  &lt;/ul&gt;
- &lt;img src="https://evgenii-egorov.github.io/anna.jpg" alt="Anna Kuzina" style="width: 165px; height: 130px; max-width: 100%; border-radius: 6px; object-fit: cover; object-position: center top;"&gt;
+ &lt;img src="https://evgenii-egorov.github.io/images/anna.jpg" alt="Anna Kuzina" style="width: 165px; height: 130px; max-width: 100%; border-radius: 6px; object-fit: cover; object-position: center top;"&gt;
  &lt;/div&gt;
  &lt;div style="display: flex; gap: 1.25rem; align-items: center; justify-content: space-between; flex-wrap: wrap;"&gt;
  &lt;ul style="margin: 0; flex: 1 1 18rem;"&gt;
  &lt;li&gt;&lt;a href="https://www.linkedin.com/in/bogdanegorov/"&gt;Bogdan Egorov&lt;/a&gt;, my brother, and &lt;a href="https://www.linkedin.com/in/darya-e-61092a166/"&gt;Daria Egorova&lt;/a&gt;, my sister.&lt;/li&gt;
  &lt;/ul&gt;
- &lt;img src="https://evgenii-egorov.github.io/bogdan-daria.jpg" alt="Bogdan Egorov and Daria Egorova" style="width: 165px; height: 130px; max-width: 100%; border-radius: 6px; object-fit: cover;"&gt;
+ &lt;img src="https://evgenii-egorov.github.io/images/bogdan-daria.jpg" alt="Bogdan Egorov and Daria Egorova" style="width: 165px; height: 130px; max-width: 100%; border-radius: 6px; object-fit: cover;"&gt;
  &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id="like"&gt;Like!&lt;a class="anchor" href="#like"&gt;#&lt;/a&gt;&lt;/h2&gt;
