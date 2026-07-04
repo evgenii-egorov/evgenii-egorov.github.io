@@ -13,6 +13,8 @@ I am interested in models that make useful structure explicit: symmetries and gr
 
 I was happy to collaborate with and learn from [Roberto Bondesan](https://rbondesan.github.io) and [Kirill Neklyudov](https://necludov.github.io).
 
+<div style="clear: right;"></div>
+
 {{% hint info %}}
 **Current status**
 I expect to complete my PhD in November 2026. In 2025 I worked with Qualcomm AI Research in Amsterdam on efficient structured computation for attention-like layers.
