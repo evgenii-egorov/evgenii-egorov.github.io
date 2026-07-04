@@ -1,0 +1,49 @@
+baseURL: https://evgenii-egorov.github.io/
+title: Evgenii Egorov
+theme: hugo-book
+
+# Book configuration
+disablePathToLower: true
+enableGitInfo: false
+
+# Needed for mermaid/katex shortcodes
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  tableOfContents:
+    startLevel: 1
+
+menu:
+  after:
+    - name: "Github"
+      url: "https://github.com/evgenii-egorov"
+      weight: 1
+    - name: "Google Scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=LwVVunEAAAAJ"
+      weight: 2
+    - name: "LinkedIn"
+      url: "https://nl.linkedin.com/in/egorovevgenii"
+      weight: 4
+
+params:
+  # Controls table of contents visibility on right side of pages.
+  BookToC: true
+
+  # Set leaf bundle to render as side menu.
+  BookMenuBundle: /menu
+
+  # Render all content sections in the book menu.
+  BookSection: '*'
+
+  # Set source repository location.
+  BookRepo: https://github.com/evgenii-egorov/evgenii-egorov.github.io
+
+  # Configure the date format used on the pages.
+  BookDateFormat: "Jan 2, 2006"
+
+  # Kirill's site has search disabled.
+  BookSearch: false
+
+  # Disable comments template.
+  BookComments: false
