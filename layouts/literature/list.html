@@ -1,0 +1,30 @@
+{{ define "main" }}
+<article class="markdown on-side-blog">
+  {{ partial "on-side-logo" . }}
+  <h1>{{ partial "docs/title" . }}</h1>
+
+  {{ with .Content }}
+    <div class="on-side-blog-intro">{{ . }}</div>
+  {{ end }}
+
+  {{ $stories := .Pages.ByDate.Reverse }}
+  {{ if $stories }}
+    <section class="on-side-story-list" aria-label="Literature stories">
+      {{ range $stories }}
+        <article class="on-side-story-list-item">
+          <h2><a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a></h2>
+          {{ partial "on-side-story-meta" . }}
+          {{ with .Description }}
+            <div class="on-side-story-summary">{{ . }}</div>
+          {{ end }}
+          <a class="on-side-story-read" href="{{ .RelPermalink }}">Read story <span aria-hidden="true">&rarr;</span></a>
+        </article>
+      {{ end }}
+    </section>
+  {{ else }}
+    <p class="on-side-empty">Stories will appear here.</p>
+  {{ end }}
+</article>
+{{ end }}
+
+{{ define "toc" }}{{ end }}

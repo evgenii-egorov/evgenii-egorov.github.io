@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="markdown on-side-blog on-side-story">
+  {{ partial "on-side-logo" . }}
+  <h1>{{ partial "docs/title" . }}</h1>
+  {{ partial "on-side-story-meta" . }}
+  <div class="on-side-story-content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

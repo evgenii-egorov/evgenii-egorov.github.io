@@ -1,0 +1,14 @@
+<div class="on-side-story-meta">
+  {{ with .Date }}
+    <span class="on-side-story-date">
+      <img src="{{ partial "docs/icon" "calendar" }}" class="book-icon" alt="">
+      {{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}
+    </span>
+  {{ end }}
+  {{ with .GetTerms "tags" }}
+    <span class="on-side-story-tags">
+      <span class="on-side-story-tags-label">Tags:</span>
+      {{ range $index, $tag := . }}{{ if $index }}, {{ end }}<a href="{{ $tag.RelPermalink }}">{{ $tag.Title }}</a>{{ end }}
+    </span>
+  {{ end }}
+</div>

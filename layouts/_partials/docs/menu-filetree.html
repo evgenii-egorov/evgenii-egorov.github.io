@@ -1,0 +1,17 @@
+{{ $path := .RelPermalink }}
+<ul>
+  <li>
+    <a href="{{ "/" | relURL }}"{{ if .IsHome }} class="active"{{ end }}>About me</a>
+  </li>
+  <li>
+    <span class="book-menu-section-label">Personal</span>
+    <ul>
+      <li>
+        <a href="{{ "/personal/" | relURL }}"{{ if eq $path "/personal/" }} class="active"{{ end }}>About</a>
+      </li>
+      <li>
+        <a href="{{ "/personal/on-de-side/" | relURL }}"{{ if hasPrefix $path "/personal/on-de-side/" }} class="active"{{ end }}>O.N. de Side blog</a>
+      </li>
+    </ul>
+  </li>
+</ul>

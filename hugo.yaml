@@ -30,9 +30,6 @@ params:
   # Controls table of contents visibility on right side of pages.
   BookToC: true
 
-  # Set leaf bundle to render as side menu.
-  BookMenuBundle: /menu
-
   # Render all content sections in the book menu.
   BookSection: '*'
 
@@ -45,5 +42,5 @@ params:
   # Kirill's site has search disabled.
   BookSearch: false
 
-  # Disable comments template.
-  BookComments: false
+  # The custom comments partial renders only on literature-story pages.
+  BookComments: true

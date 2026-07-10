@@ -1,0 +1,8 @@
+<a class="on-side-brand" href="{{ "/personal/on-de-side/" | relURL }}" aria-label="O.N. de Side blog home">
+  {{ if os.FileExists "static/images/on-de-side-logo.png" }}
+    <img class="on-side-logo" src="{{ "/images/on-de-side-logo.png" | relURL }}" alt="O.N. de Side logo">
+  {{ else }}
+    <span class="on-side-logo on-side-logo-placeholder" aria-hidden="true">O.N.</span>
+  {{ end }}
+  <span class="on-side-brand-name">O.N. de Side</span>
+</a>
